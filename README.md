@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giovanni Ambrosi
 - 🌱 I graduated in Information Engineering at the University of Trento (Italy) in 2021
-- 🌱 I’m currently studying Artificial Intelligence Systems at the University of Trento (Italy)
+- 🌱 I'm studying Artificial Intelligence Systems at the University of Trento (Italy) and I'm currently doing my final thesis at the Vrije Universiteit in Amsterdam
 
 - 📫 Contact(s):
   * giovanni.ambrosi@studenti.unitn.it
